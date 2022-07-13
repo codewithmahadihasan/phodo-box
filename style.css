@@ -1,0 +1,46 @@
+h1 {
+    background-color: bisque;
+}
+
+span {
+    display: inline;
+    background-color: aqua;
+    border-radius: 5px;
+    margin-left: 30px;
+
+}
+
+div {
+    background-color: blueviolet;
+    width: 100%;
+    height: 200px;
+    padding-top: 5%;
+    margin: 7%;
+    padding: 10px;
+    border-radius: 7px;
+    justify-content: center;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+h2 {
+    background: magenta;
+    border-radius: 7px;
+}
+
+p {
+    background-color: wheat;
+    border-radius: 5px;
+
+}
+
+section {
+    display: flex;
+}
